@@ -1,8 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=25&duration=3500&pause=500&color=990011&background=FCF6F5C6&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+my+name+is+Bol+Anastasiia;Nice+to+see+you+on+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=25&duration=3500&pause=500&color=990011&background=FCF6F5C6&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Bol+Anastasiia;Nice+to+see+you+on+my+profile!)](https://git.io/typing-svg)
 
-
-<h1 align="center">Hi 🌻, I'm Anastasiia</h1>
-<h3 align="center">A passionate backend developer from Saint-Petersburg</h3>
+<h3 align="center">I`m a passionate backend developer from Saint-Petersburg</h3>
 
 - ✅ I’m currently working on my useful app called [Wish-list](https://github.com/nrthbnd/wish-list)
 
